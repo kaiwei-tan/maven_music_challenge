@@ -3,4 +3,4 @@ This repository is my intermediate workings for the [Maven Music Challenge](http
 
 My final write-up for this project can be found [here](https://mavenanalytics.io/project/25720).
 
-This project extensively uses the [Spotify Web API](https://developer.spotify.com/documentation/web-api).
+This project extensively uses the [Spotify Web API](https://developer.spotify.com/documentation/web-api) as seen in `utils.py`.
